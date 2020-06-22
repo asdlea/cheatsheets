@@ -1,2 +1,2 @@
-# cheatsheets
+# Cheat sheets
 Simple useful cheatsheets
